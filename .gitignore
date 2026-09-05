@@ -2,16 +2,3 @@
 .env
 .env.*
 !.env.example
-
-# Python
-__pycache__/
-*.py[cod]
-
-# Virtual environments
-venv/
-.venv/
-env/
-
-# IDE
-.vscode/
-.idea/
